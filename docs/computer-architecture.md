@@ -13,6 +13,7 @@ CS2022
 
 ## Questions by Year
 
+-   [2018](https://www.tcd.ie/academicregistry/exams/assets/local/past-papers2018/CS/CS2022-1.PDF)
 -   [2017](https://www.tcd.ie/academicregistry/exams/assets/local/past-papers2017/CS/CS2022-1.PDF)
 -   [2016](https://www.tcd.ie/academicregistry/exams/assets/local/past-papers2016/CS/CS2022-1.PDF)
 -   [2015](https://www.tcd.ie/academicregistry/exams/assets/local/past-papers2015/CS/CS2022-1.PDF)
@@ -71,6 +72,7 @@ CS2022
         <td>Functional Unit</td>
         <td>
             <ul class="questions">
+                <li><a href="https://www.tcd.ie/academicregistry/exams/assets/local/past-papers2018/CS/CS2022-1.PDF#page=7">2018 Q4</a></li>
                 <li><a href="https://www.tcd.ie/academicregistry/exams/assets/local/past-papers2015/CS/CS2022-1.PDF#page=6">2015 Q4</a></li>
                 <li><a href="https://www.tcd.ie/academicregistry/exams/assets/local/past-papers2014/CS/CS20221.pdf#page=5">2014 Q3</a></li>
                 <li><a href="https://www.tcd.ie/academicregistry/exams/assets/local/past-papers2013/CS/CS20221.pdf#page=5">2013 Q3</a></li>
